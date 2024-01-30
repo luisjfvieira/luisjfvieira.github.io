@@ -3,7 +3,7 @@ layout: post
 title: "Bicicletas de Carga na JMJ!"
 date: 2024-01-30 14:30:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img:  # Cargo_JMJ_2 (optional)
+img:  # Cargo_JMJ_2.jpeg (optional)
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
